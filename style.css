@@ -1,0 +1,35 @@
+.hometitle{
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px black;
+    background-color: rgb(228, 223, 153);
+    padding:10px;
+    text-align: center;
+    border-color: brown;
+    border-style: solid;
+}
+
+.recipelist{
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    padding:3px;
+    list-style-type: none;
+}
+
+.one{
+    margin-bottom:15px;
+}
+
+.two{
+    margin-bottom: 15px;
+}
+
+.gif{
+    box-sizing: border-box;
+    display:inline;
+    width: 40px;
+    height: auto;
+}
