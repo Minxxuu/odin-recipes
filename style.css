@@ -42,7 +42,7 @@ html{
 
 .description{
     font-size:28px;
-}
+}   
 
 .link{
     color:rgb(235, 59, 238)
@@ -50,12 +50,22 @@ html{
 
 .instructions{
     font-family:'Courier New', Courier, monospace;
-    text-align: center;
+    text-align: left;
+    margin-left:50px;
 }
 .stepslist{
-    list-style: none;
+    list-style-type: none;
+    margin-bottom:40px;
 }
 
-.stepsheading{
-    margin-left:15px;
+.home{
+    color:orchid;
+    font-size:30px;
+    display:block;
+}
+
+.burgerpic{
+    width: 300px;
+    height:auto;
+
 }
